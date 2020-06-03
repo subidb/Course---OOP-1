@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1549231793 source:c:\users\durga kandel\desktop\c+++\111prac\frac\main.cpp
+	<iostream>
+	"fraction.h"
+
+1549231793 c:\users\durga kandel\desktop\c+++\111prac\frac\include\fraction.h
+
+1549231793 source:c:\users\durga kandel\desktop\c+++\111prac\frac\src\fraction.cpp
+	<iostream>
+	"fraction.h"
+
+1549231793 source:c:\users\durga kandel\desktop\1st sem\c+++\111prac\frac\main.cpp
+	<iostream>
+	"fraction.h"
+
+1549231793 c:\users\durga kandel\desktop\1st sem\c+++\111prac\frac\include\fraction.h
+
+1549231793 source:c:\users\durga kandel\desktop\1st sem\c+++\111prac\frac\src\fraction.cpp
+	<iostream>
+	"fraction.h"
+

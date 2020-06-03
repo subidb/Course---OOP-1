@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1541988749 source:c:\users\durga kandel\desktop\calculus\c++\assignment 5\5_2\src\tournamentmember.cpp
+	"TournamentMember.h"
+	<iostream>
+	<string.h>
+
+1541988623 c:\users\durga kandel\desktop\calculus\c++\assignment 5\5_2\include\tournamentmember.h
+	<iostream>
+	<string.h>
+
+1541988623 source:c:\users\durga kandel\desktop\calculus\c++\assignment 5\5_2\main.cpp
+	"TournamentMember.h"
+	<iostream>
+
+1541988623 source:c:\users\durga kandel\desktop\c++\assignment 5\5_2\main.cpp
+	"TournamentMember.h"
+	<iostream>
+
+1541988623 c:\users\durga kandel\desktop\c++\assignment 5\5_2\include\tournamentmember.h
+	<iostream>
+	<string.h>
+
+1541988772 source:c:\users\durga kandel\desktop\c++\assignment 5\5_2\src\tournamentmember.cpp
+	"TournamentMember.h"
+	<iostream>
+	<string.h>
+
+1542408440 source:c:\users\durga kandel\desktop\c++\assignment 5\5_4\5_4\src\tournamentmember.cpp
+	"TournamentMember.h"
+	<iostream>
+	<string.h>
+
+1542408440 c:\users\durga kandel\desktop\c++\assignment 5\5_4\5_4\include\tournamentmember.h
+	<iostream>
+	<string.h>
+
+1542407495 source:c:\users\durga kandel\desktop\c++\assignment 5\5_4\5_4\main.cpp
+	"TournamentMember.h"
+	<iostream>
+

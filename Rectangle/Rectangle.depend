@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1548528214 source:c:\users\durga kandel\desktop\c+++\111prac\rectangle\src\rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
+1548521040 c:\users\durga kandel\desktop\c+++\111prac\rectangle\include\rectangle.h
+	"Rectangle.h"
+	<iostream>
+
+1548527973 source:c:\users\durga kandel\desktop\c+++\111prac\rectangle\main.cpp
+	"Rectangle.h"
+	<iostream>
+
+1549930137 source:c:\users\durga kandel\desktop\1st sem\c+++\111prac\rectangle\main.cpp
+	"Rectangle.h"
+	<iostream>
+
+1548521040 c:\users\durga kandel\desktop\1st sem\c+++\111prac\rectangle\include\rectangle.h
+	"Rectangle.h"
+	<iostream>
+
+1548528214 source:c:\users\durga kandel\desktop\1st sem\c+++\111prac\rectangle\src\rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+

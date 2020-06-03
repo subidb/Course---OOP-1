@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1548358584 source:c:\users\durga kandel\desktop\c+++\111prac\critt\main.cpp
+	<iostream>
+	<cstdlib>
+	"Critter2.h"
+
+1548358963 c:\users\durga kandel\desktop\c+++\111prac\critt\include\critter2.h
+	<string>
+
+1548358963 source:c:\users\durga kandel\desktop\c+++\111prac\critt\src\critter2.cpp
+	"Critter2.h"
+	<iostream>
+

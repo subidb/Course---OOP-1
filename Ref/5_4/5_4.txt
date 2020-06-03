@@ -1,0 +1,40 @@
+Class Referee
+{
+int ycnt;
+Player* ylist[40];
+int rcnt;
+Player* rlist[40];
+
+public:
+Referee(){ycnt = rcnt =0;}
+bool addToYlist(Player* p)//check if the player has yello card
+{
+for(int i = 0; i< ycnt; i++)
+{
+	if(ylist[i] == p)
+	{
+		for(int j=i+1; j< ycnt    ,j++)
+	{
+		ylist[j-1]=ylist[j];
+		}
+		ycnt--;
+		addToRlist(p);
+		return false;
+		{
+		}
+		ylist[ycnt]=p;
+		ycnt++;
+		return true;
+	}
+
+	bool addtoRlist(Player *p)
+	{
+	rlist[rcent]=p;
+	rcnt++;
+	return true;
+	}
+
+int main()
+{
+	Player *p = new Player();
+	p;

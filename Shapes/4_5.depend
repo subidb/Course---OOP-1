@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1541632902 source:c:\users\durga kandel\desktop\calculus\c++\assignment 4\4_5\main.cpp
+	<iostream>
+	<cstring>
+	"Shapes.h"
+
+1541632902 c:\users\durga kandel\desktop\calculus\c++\assignment 4\4_5\include\shapes.h
+	<string>
+
+1541632902 source:c:\users\durga kandel\desktop\calculus\c++\assignment 4\4_5\src\shapes.cpp
+	<iostream>
+	<cmath>
+	"Shapes.h"
+
+1548967472 source:c:\users\durga kandel\desktop\c++\assignment 4\4_5\main.cpp
+	<iostream>
+	<cstring>
+	"Shapes.h"
+
+1548967733 c:\users\durga kandel\desktop\c++\assignment 4\4_5\include\shapes.h
+	<string>
+
+1548967516 source:c:\users\durga kandel\desktop\c++\assignment 4\4_5\src\shapes.cpp
+	<iostream>
+	<cmath>
+	"Shapes.h"
+
+1549968801 source:c:\users\durga kandel\desktop\1st sem\c+++\111prac\shapes\main.cpp
+	<iostream>
+	<cstring>
+	"Shapes.h"
+
+1549995029 c:\users\durga kandel\desktop\1st sem\c+++\111prac\shapes\include\shapes.h
+	<string>
+
+1549968780 source:c:\users\durga kandel\desktop\1st sem\c+++\111prac\shapes\src\shapes.cpp
+	<iostream>
+	<cmath>
+	"Shapes.h"
+

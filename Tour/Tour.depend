@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1549754714 source:c:\users\durga kandel\desktop\1st sem\c+++\111prac\tour\main.cpp
+	"TournamentMember.h"
+	<iostream>
+	<cstring>
+
+1549754714 c:\users\durga kandel\desktop\1st sem\c+++\111prac\tour\include\tournamentmember.h
+	"TournamentMember.h"
+	<iostream>
+	<cstring>
+
+1549754582 source:c:\users\durga kandel\desktop\1st sem\c+++\111prac\tour\src\tournamentmember.cpp
+	"TournamentMember.h"
+	<iostream>
+
